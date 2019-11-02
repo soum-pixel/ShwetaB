@@ -8,3 +8,5 @@ public int getCustId{
 }
 return xyz;
 }
+public void getcustmer()
+{}
