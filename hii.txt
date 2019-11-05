@@ -1,8 +1,16 @@
 hiiiiii
 
+<<<<<<< HEAD
 hellooo
 
+=======
+>>>>>>> 1779f1c79a2150aa24775e2225e7bfd5bfc62b08
 hellooo
 bye
 byeeee
 
+<<<<<<< HEAD
+=======
+hellooo
+
+>>>>>>> 1779f1c79a2150aa24775e2225e7bfd5bfc62b08
